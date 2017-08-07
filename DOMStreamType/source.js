@@ -1,0 +1,1 @@
+type DOMStreamType = Stream<DOMEventType>
