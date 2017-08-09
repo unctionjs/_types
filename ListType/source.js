@@ -1,1 +1,1 @@
-type ListType = Array<ValueType> | Set<ValueType> | WeakSet<ValueType>
+type ListType = Array<ValueType> | Set<ValueType> | WeakSet<{[key: KeyType]: ValueType}>
