@@ -1,0 +1,1 @@
+type ObjectType = Array<ValueType>

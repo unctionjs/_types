@@ -1,0 +1,1 @@
+type ArrayType = Array<ValueType>

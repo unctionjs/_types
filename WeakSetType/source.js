@@ -1,0 +1,1 @@
+type WeakSetType = WeakSet<ObjectType>

@@ -1,1 +1,1 @@
-type ListTreeType = Array<ValueType | IterableType> | Set<ValueType | IterableType> | WeakSet<ValueType | IterableType>
+type ListTreeType = ArrayTreeType | SetTreeType | WeakSetTreeType

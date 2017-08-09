@@ -1,0 +1,1 @@
+type SetType = Set<ValueType>
