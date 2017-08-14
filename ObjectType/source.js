@@ -1,1 +1,1 @@
-type ObjectType = Array<ValueType>
+type ObjectType = {[key: KeyType]: ValueType}
