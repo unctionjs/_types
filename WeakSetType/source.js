@@ -1,1 +1,1 @@
-type WeakSetType = WeakSet<T: ObjectType>
+type WeakSetType = WeakSet
