@@ -1,0 +1,1 @@
+type OrderedListType = ArrayType | TextType

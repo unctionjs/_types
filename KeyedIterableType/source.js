@@ -1,0 +1,1 @@
+type KeyedIterableType = RecordType | OrderedListType
