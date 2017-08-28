@@ -1,1 +1,1 @@
-type UnorderedListType = SetType | WeakSetType
+type UnorderedFunctorType = SetType | WeakSetType

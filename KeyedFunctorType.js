@@ -1,1 +1,1 @@
-type KeyedFunctorType = RecordType | OrderedListType
+type KeyedFunctorType = RecordType | OrderedFunctorType
