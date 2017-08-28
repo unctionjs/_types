@@ -1,1 +1,1 @@
-type TextType = string | Buffer
+type TextType = StringType | Buffer

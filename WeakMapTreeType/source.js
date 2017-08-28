@@ -1,1 +1,1 @@
-type WeakMapTreeType = WeakMap<{[key: KeyType]: ValueType | IterableType}, ValueType>
+type WeakMapTreeType = WeakMap<{[key: KeyType]: ValueType | FunctorType}, ValueType>

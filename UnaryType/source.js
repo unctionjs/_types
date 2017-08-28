@@ -1,0 +1,1 @@
+type UnaryType = mixed => mixed

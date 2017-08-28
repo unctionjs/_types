@@ -1,1 +1,1 @@
-type ObjectTreeType = {[key: KeyType]: ValueType | IterableType}
+type ObjectTreeType = {[key: KeyType]: ValueType | FunctorType}

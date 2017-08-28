@@ -1,1 +1,1 @@
-type WeakSetTreeType = WeakSet<{[key: KeyType]: ValueType | IterableType}>
+type WeakSetTreeType = WeakSet<{[key: KeyType]: ValueType | FunctorType}>

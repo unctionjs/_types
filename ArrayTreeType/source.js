@@ -1,1 +1,1 @@
-type ArrayTreeType = Array<ValueType | IterableType>
+type ArrayTreeType = Array<ValueType | FunctorType>

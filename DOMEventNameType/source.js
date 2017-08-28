@@ -1,1 +1,1 @@
-type DOMEventNameType = string
+type DOMEventNameType = StringType

@@ -1,1 +1,1 @@
-type WeakMapType = WeakMap<{[key: KeyType]: ValueType}, ValueType>
+type WeakMapType = WeakMap<ObjectType, ValueType>

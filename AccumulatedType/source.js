@@ -1,2 +1,0 @@
-type AccumulatedType = mixed
-

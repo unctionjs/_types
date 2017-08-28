@@ -1,1 +1,1 @@
-type SetTreeType = Set<ValueType | IterableType>
+type SetTreeType = Set<ValueType | FunctorType>
