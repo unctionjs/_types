@@ -1,0 +1,1 @@
+type MapFunctionType = mixed => mixed

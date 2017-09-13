@@ -1,1 +1,0 @@
-type PredicateType = mixed => boolean

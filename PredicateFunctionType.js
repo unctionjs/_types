@@ -1,0 +1,1 @@
+type PredicateFunctionType = mixed => boolean
