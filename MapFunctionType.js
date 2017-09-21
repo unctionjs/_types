@@ -1,1 +1,1 @@
-type MapFunctionType = mixed => mixed
+export type MapFunctionType = mixed => mixed

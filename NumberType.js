@@ -1,1 +1,1 @@
-type NumberType = number
+export type NumberType = number

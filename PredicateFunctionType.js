@@ -1,1 +1,1 @@
-type PredicateFunctionType = mixed => boolean
+export type PredicateFunctionType = mixed => boolean

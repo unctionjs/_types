@@ -1,1 +1,4 @@
-type RecordType = ObjectType | MapType | WeakMapType
+import type {ObjectType} from "./ObjectType"
+import type {MapType} from "./MapType"
+
+export type RecordType = ObjectType | MapType

@@ -1,1 +1,1 @@
-type MapKeyType = mixed
+export type MapKeyType = mixed

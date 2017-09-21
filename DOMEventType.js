@@ -1,1 +1,1 @@
-type DOMEventType = any
+export type DOMEventType = any

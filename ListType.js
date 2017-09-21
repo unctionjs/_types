@@ -1,1 +1,4 @@
-type ListType = ArrayType | SetType | WeakSetType
+import type {ArrayType} from "./ArrayType"
+import type {SetType} from "./SetType"
+
+export type ListType = ArrayType | SetType

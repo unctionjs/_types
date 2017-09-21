@@ -1,1 +1,3 @@
-type ResolvedPromisesType = ListType
+import type {ListType} from "./ListType"
+
+export type ResolvedPromisesType = ListType

@@ -1,1 +1,1 @@
-type StringType = string
+export type StringType = string

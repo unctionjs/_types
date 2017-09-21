@@ -1,1 +1,3 @@
-type TextType = StringType | Buffer
+import type {StringType} from "./StringType"
+
+export type TextType = StringType | Buffer

@@ -1,1 +1,1 @@
-type UnaryFunctionType = mixed => mixed
+export type UnaryFunctionType = mixed => mixed

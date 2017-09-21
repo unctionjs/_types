@@ -1,1 +1,3 @@
-type UnfinishedKeyChainType = Array<KeyType | null>
+import type {KeyType} from "./KeyType"
+
+export type UnfinishedKeyChainType = Array<KeyType | null>

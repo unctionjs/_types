@@ -1,1 +1,1 @@
-type ValueType = mixed
+export type ValueType = mixed

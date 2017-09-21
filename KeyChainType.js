@@ -1,1 +1,3 @@
-type KeyChainType = Array<KeyType>
+import type {KeyType} from "./KeyType"
+
+export type KeyChainType = Array<KeyType>

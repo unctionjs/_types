@@ -1,1 +1,1 @@
-type AccumulatedType = mixed
+export type AccumulatedType = mixed
