@@ -1,4 +1,4 @@
-import type {Stream} from "xstream"
+import type {StreamType} from "./StreamType"
 import type {DOMEventType} from "./DOMEventType"
 
-export type DOMEventStreamType = Stream<DOMEventType>
+export type DOMEventStreamType = StreamType<DOMEventType>

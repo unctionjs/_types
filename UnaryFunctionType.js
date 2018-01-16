@@ -1,1 +1,1 @@
-export type UnaryFunctionType = mixed => mixed
+export type UnaryFunctionType<I: mixed, O: mixed> = I => O

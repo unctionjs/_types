@@ -1,1 +1,3 @@
-export type DOMEventType = any
+export type DOMEventType = {
+  type: string
+}

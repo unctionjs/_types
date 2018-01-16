@@ -1,1 +1,1 @@
-export type MapperFunctionType = mixed => mixed
+export type MapperFunctionType<V: mixed> = V => V

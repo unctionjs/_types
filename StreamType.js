@@ -1,4 +1,13 @@
-import type {Stream} from "xstream"
 import type {ValueType} from "./ValueType"
 
-export type StreamType = Stream<ValueType>
+type Stream<T> = {
+  filter: Function,
+  fold: Function,
+  map: Function,
+}
+
+export type StreamType<T: ValueType> = {
+  filter: Function,
+  fold: Function,
+  map: Function,
+}
