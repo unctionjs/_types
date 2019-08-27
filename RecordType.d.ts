@@ -1,1 +1,3 @@
-export type RecordType<K, V> = {[key: string]: V} | Map<K, V>
+import {StringObjectType} from "./StringObjectType"
+
+export type RecordType<K, V> = StringObjectType<V> | Map<K, V>
