@@ -1,3 +1,3 @@
-import {StringObjectType} from "./StringObjectType";
+import {ObjectType} from "./ObjectType";
 
-export type RecordType<K, V> = StringObjectType<V> | Map<K, V>
+export type RecordType<K, V> = ObjectType<V> | Map<K, V>

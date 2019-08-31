@@ -1,1 +1,1 @@
-export type PredicateFunctionType<V> = (value: V) => boolean
+export type PredicateFunctionType<V> = (a: V) => boolean

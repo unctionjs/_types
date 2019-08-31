@@ -1,1 +1,1 @@
-export type ReducerFunctionType<A, C, R> = (a: A) => (c: C) => R
+export type ReducerFunctionType<A, B, C> = (a: A) => (b: B) => C

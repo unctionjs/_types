@@ -1,1 +1,1 @@
-export type MapperFunctionType<A, B> = (value: A) => B
+export type MapperFunctionType<A, B> = (a: A) => B

@@ -1,3 +1,3 @@
-import {StringObjectType} from "./StringObjectType";
+import {ObjectType} from "./ObjectType";
 
-export type UnorderedEnumerableType<V> = Set<V> | StringObjectType<V> | Map<unknown, V>
+export type UnorderedEnumerableType<V, K = unknown> = Set<V> | ObjectType<V> | Map<K, V>
