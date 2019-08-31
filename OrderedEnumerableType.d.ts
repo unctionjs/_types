@@ -1,1 +1,3 @@
-export type OrderedEnumerableType<V> = Array<V> | string
+import {TextType} from "./TextType";
+
+export type OrderedEnumerableType<V> = Array<V> | TextType
