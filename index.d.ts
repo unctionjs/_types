@@ -12,6 +12,5 @@ export {ReducerFunctionType} from "./ReducerFunctionType";
 export {ValueKeyReducerFunctionType} from "./ValueKeyReducerFunctionType";
 export {ObjectType} from "./ObjectType";
 export {TextType} from "./TextType";
-export {UnaryFunctionType} from "./UnaryFunctionType";
 export {UnfinishedKeyChainType} from "./UnfinishedKeyChainType";
 export {UnorderedEnumerableType} from "./UnorderedEnumerableType";
