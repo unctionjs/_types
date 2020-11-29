@@ -1,8 +1,8 @@
 {
-  "name": "types",
+  "name": "@unction/types",
   "version": "1.0.0",
-  "description": "",
-  "main": ".eslintrc.js",
+  "description": "A collection of all the unction types",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "10.0.1",
