@@ -1,4 +1,3 @@
 import {MapperFunctionType} from "./MapperFunctionType";
-import {EnumerableType} from "./EnumerableType";
 
-export type FoldFunctionType<A, B> = (a: MapperFunctionType<A, B>) => (b: EnumerableType<A>) => B
+export type FoldFunctionType<A, B> = (a: MapperFunctionType<A, B>) => (b: Array<B> | Set<B> | Record<string | number | symbol, B> | Map<unknown, B> | string) => B
